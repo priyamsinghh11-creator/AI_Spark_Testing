@@ -6,6 +6,5 @@ videos/
 runs/
 __pycache__/
 *.pyc
-*.pt
 old_versions/
 *.bat
